@@ -3,14 +3,14 @@
 
 ## Mini-Projects
 
-### Relax Challenge - [PDF](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Relax%20Challenge/relax_data_science_challenge.pdf)
+#### Relax Challenge - [PDF](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Relax%20Challenge/relax_data_science_challenge.pdf)
 This mini-project involves loading, cleaning, and then merging two CSV files in order to identify which factors predict future user adoption.
 
 [Jupyter Notebook](http://nbviewer.jupyter.org/github/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Relax%20Challenge/Relax%20Challenge.ipynb)
 
 [Github](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Relax%20Challenge/Relax%20Challenge.ipynb)
 
-### Ultimate Technologies Challenge - [PDF](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Ultimate%20Technologies/ultimate_data_science_challenge.pdf)
+#### Ultimate Technologies Challenge - [PDF](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Ultimate%20Technologies/ultimate_data_science_challenge.pdf)
 This project involves three different challenges:
 1. An exploratory analysis of almost 100,000 user logins.
 2. Describing how I would measure the success of a an experimentation involving paying tolls for drivers.
