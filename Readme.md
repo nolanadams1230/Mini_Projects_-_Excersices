@@ -1,5 +1,6 @@
 # Projects & Excercises
 
+
 ## Mini-Projects
 
 ### Relax Challenge - [PDF](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Relax%20Challenge/relax_data_science_challenge.pdf)
@@ -18,6 +19,8 @@ This project involves three different challenges:
 [Jupyter Notebook](http://nbviewer.jupyter.org/github/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Ultimate%20Technologies/Ultimate%20Challenge.ipynb)
 
 [Github](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Mini-Project%20-%20Ultimate%20Technologies/Ultimate%20Challenge.ipynb)
+
+
 
 ## Inferential Statistics Exercises
 
@@ -41,6 +44,8 @@ In this excersie I critiqued a preliminary analysis of data and recommendations 
 [Jupyter Notebook](http://nbviewer.jupyter.org/github/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Statistics%20-%20Hospital%20Readmission%20Rates/Hospital%20Readmissions%20Data%20Analysis.ipynb)
 
 [Github](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Statistics%20-%20Hospital%20Readmission%20Rates/Hospital%20Readmissions%20Data%20Analysis.ipynb)
+
+
 
 ## Machine Learning
 
@@ -72,6 +77,8 @@ In this project we perform a text analysis using a subset of movie reviews from 
 
 [Github](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Naive%20Bayes%20-%20Movie%20Reviews/Mini_Project_Naive_Bayes.ipynb)
 
+
+
 ## Data Science at Scale
 
 #### Map Reduce with Spark
@@ -80,6 +87,7 @@ This excersice is focused on the fundamentals of Spark, the most popular tool us
 [Jupyter Notebook](http://nbviewer.jupyter.org/github/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Data%20Science%20at%20Scale%20-%20Map%20Reduce%20with%20Spark/MapReduce%20using%20SPARK.ipynb)
 
 [Github](https://github.com/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Data%20Science%20at%20Scale%20-%20Map%20Reduce%20with%20Spark/MapReduce%20using%20SPARK.ipynb)
+
 
 
 ## JSON Project
