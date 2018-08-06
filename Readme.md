@@ -46,7 +46,7 @@ In this excersie I critiqued a preliminary analysis of data and recommendations 
 ## Machine Learning
 
 #### Linear Regression - Predicting Boston Housing Prices
-In this project we perform EDA on linear relationships on a Boston housing data set, make a linear regression model to predict housing prices, compare our models, and then evaluate the best model via model assumptions and other issues.
+In this project we performed EDA on linear relationships of a Boston housing data set, made multiple linear regression models to predict housing prices, compared our models, and then evaluated the best model via model assumptions and other issues.
 
 [Jupyter Notebook](http://nbviewer.jupyter.org/github/nolanadams1230/Mini_Projects_and_Exercises/blob/master/Linear%20Regression%20-%20Boston%20Housing%20Market/Boston_Housing_Linear_Regression.ipynb)
 
